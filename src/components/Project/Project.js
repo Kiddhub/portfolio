@@ -17,7 +17,7 @@ function Project() {
                 title="ECOMMERCE"
                 img={Ecomm}
                 date="(DECEMBER 2022)"
-                description="The first project I made with With a focus on simplicity and clean design, this store prioritize user experience, making it easy for customers to find and purchase the products they need."
+                description="The first project I made. With a focus on simplicity and clean design, this store prioritize user experience, making it easy for customers to find and purchase the products they need."
                 techno1="Spring Boot"
                 techno2="HTML"
                 techno3="MySQL"
