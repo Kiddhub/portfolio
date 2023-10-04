@@ -4,6 +4,7 @@ import Hero from "../components/Hero/Hero";
 import AboutMe from "../components/AboutMe/AboutMe";
 import Project from "../components/Project/Project";
 import Contact from "../components/Contact/Contact";
+import Footer from "../components/Footer/Footer";
 
 export default class Home extends Component {
   render() {
@@ -15,6 +16,7 @@ export default class Home extends Component {
         <AboutMe />
         <Project />
         <Contact />
+        <Footer />
       </div>
     );
   }
